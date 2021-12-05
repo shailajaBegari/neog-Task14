@@ -1,0 +1,31 @@
+body{
+text-align: center;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGgpriXtx7k9ZF6sQ4uMNGI183xOuo-JXZA&usqp=CAU");
+}
+label{
+    display: block;
+    padding:50px
+}
+.container{
+    display: flex;
+    flex-direction:column ;
+    width: 100vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+input{
+    width: 50%;
+    height: 300%;
+    font-size: large;
+    border: 5px solid rgb(0, 255, 255);
+}
+#submit-btn{
+    margin:1 rem;
+    padding: 30px;
+    border:5px solid  crimson;
+
+
+}
+div{
+    padding: 50px;
+}
