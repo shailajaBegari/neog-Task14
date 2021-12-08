@@ -1,6 +1,6 @@
 body{
 text-align: center;
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGgpriXtx7k9ZF6sQ4uMNGI183xOuo-JXZA&usqp=CAU");
+background-color: beige;
 }
 label{
     display: block;
@@ -17,12 +17,12 @@ input{
     width: 50%;
     height: 300%;
     font-size: large;
-    border: 5px solid rgb(0, 255, 255);
+    border: 2px solid rgb(0, 255, 255);
 }
 #submit-btn{
     margin:1 rem;
     padding: 30px;
-    border:5px solid  crimson;
+    border:2px solid  crimson;
 
 
 }
