@@ -17,12 +17,12 @@ input{
     width: 50%;
     height: 300%;
     font-size: large;
-    border: 2px solid rgb(0, 255, 255);
+    border: 2px solid rgb(6, 8, 8);
 }
 #submit-btn{
     margin:1 rem;
     padding: 30px;
-    border:2px solid  crimson;
+    border:2px solid  rgb(22, 8, 11);
 
 
 }
@@ -33,5 +33,5 @@ ul li{
     display: inline;
 }
 footer{
-    font-size: x-large;
+    font-size: medium;
 }
