@@ -1,4 +1,4 @@
-body{
+ body{
 text-align: center;
 background-color: beige;
 }
@@ -15,23 +15,30 @@ label{
 }
 input{
     width: 50%;
-    height: 300%;
+    height: 200%;
     font-size: large;
     border: 2px solid rgb(6, 8, 8);
 }
 #submit-btn{
     margin:1 rem;
-    padding: 30px;
+    padding: 10px;
     border:2px solid  rgb(22, 8, 11);
 
 
 }
 div{
-    padding: 50px;
+    padding: 5px;
 }
 ul li{
     display: inline;
 }
 footer{
     font-size: medium;
+} 
+button{
+    display: inline-block;
+    margin:5rem;
 }
+
+
+
